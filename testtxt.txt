@@ -1,0 +1,27 @@
+Temperature = 27.33 *C
+Temperature = 81.19 *F
+Pressure = 100926.77 Pa
+Approx altitude = 33.21 m
+
+Accel X: -1.17 	Y: 9.54 	Z: 0.26 m/s^2 
+Gyro X: 0.03 	Y: 0.11 	Z: -0.52 radians/s 
+
+642
+ millisecondsTemperature = 27.33 *C
+Temperature = 81.19 *F
+Pressure = 100926.77 Pa
+Approx altitude = 33.21 m
+
+Accel X: -1.22 	Y: 9.57 	Z: 0.21 m/s^2 
+Gyro X: 0.01 	Y: -0.00 	Z: 0.00 radians/s 
+
+711
+ millisecondsTemperature = 30.65 *C
+Temperature = 87.17 *F
+Pressure = 100638.86 Pa
+Approx altitude = 57.28 m
+
+Accel X: 3.58 	Y: 9.38 	Z: -1.45 m/s^2 
+Gyro X: -0.21 	Y: -0.09 	Z: -0.08 radians/s 
+
+453224
